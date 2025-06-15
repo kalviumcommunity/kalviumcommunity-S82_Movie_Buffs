@@ -60,4 +60,5 @@ The core idea behind Movie Buffs is to create a centralized, community-powered p
 |---------|---------|----------|----------------|
 | React.js | Node.js + Express.js | MongoDB | JWT, Google OAuth (planned) |
 
-
+## Backend live link
+|  https://asap-backend-sde1.onrender.com
